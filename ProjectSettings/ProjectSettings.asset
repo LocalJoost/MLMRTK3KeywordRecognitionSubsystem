@@ -158,6 +158,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.LocalJoost.MLMRTK3KeywordRecognitionSubsystem
+    Standalone: com.LocalJoost.MLMRTK3KeywordRecognitionSubsystem
   buildNumber:
     Standalone: 0
     VisionOS: 0

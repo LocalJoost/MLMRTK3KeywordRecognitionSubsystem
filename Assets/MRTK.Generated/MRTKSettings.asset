@@ -15,9 +15,9 @@ MonoBehaviour:
   settings:
     entries:
     - key: 14
-      value: {fileID: 11400000, guid: 78da361b0ee960441aef8d3a38725e16, type: 2}
+      value: {fileID: 11400000, guid: c677e5c4eb85b7849a8da406775c299d, type: 2}
     - key: 1
-      value: {fileID: 11400000, guid: 9fbca11093f1ebb44a33800619fa989d, type: 2}
+      value: {fileID: 11400000, guid: c677e5c4eb85b7849a8da406775c299d, type: 2}
     - key: 7
       value: {fileID: 11400000, guid: 9fbca11093f1ebb44a33800619fa989d, type: 2}
   buildPreferences:
