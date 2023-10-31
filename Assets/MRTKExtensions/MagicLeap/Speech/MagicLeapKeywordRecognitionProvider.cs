@@ -39,6 +39,7 @@ namespace MRTKExtensions.MagicLeap.Speech
 
         public override void Destroy()
         {
+            base.Destroy();
             RemoveAllKeywords();
             Stop();
         }
@@ -88,7 +89,7 @@ namespace MRTKExtensions.MagicLeap.Speech
             {
                 if (keywordDictionary.TryGetValue(voiceEvent.EventName, out var value))
                 {
-                    value.Invoke();
+                    value?.Invoke();
                 }
             }
         }
